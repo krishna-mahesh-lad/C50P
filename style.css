@@ -1,0 +1,31 @@
+
+    h1 {color: rgb(255, 255, 255);}
+    
+
+    .Menu 
+    {
+        display: flex;
+        justify-content: space-evenly;
+        background-image: url("/images/WP.jpg");
+        font-size: 20px;
+        font-family: Times;
+        font-weight: 400;
+        color: rgb(105, 10, 10);
+    }
+
+    .Middle
+    {
+        text-align: center;
+    }
+
+    .Right
+    {
+        text-align: end;
+    }
+
+    .Content
+    {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
